@@ -17,6 +17,8 @@ namespace kavegep
             {
                 Console.WriteLine("Kápi van tetya");
             }
+            // skizofrenia
+            Console.WriteLine("Master vagyok a Workomben na :DDDD erted mert a branch az master HIHIHIHIH");
         }
     }
 }
