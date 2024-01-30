@@ -17,6 +17,13 @@ namespace kavegep
             {
                 if (true)
                 {
+                    Console.WriteLine(i+" Béla van tetya");
+                    //baby baby baby ooooooo baby baby baby OOOOOOOOo
+                    //You have been trolled hehehhehehheheheh
+                    //the fuck is this minecraft font xdddddddd
+                    //hagytam egy szörnyeteget az ajtod elott mr fbi ugynok:))
+                    //Én Ma egy GoofBallnak erzem magam✨
+
                     Console.WriteLine(i+" Kápi van tetya");
                 }
                 
