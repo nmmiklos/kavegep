@@ -17,7 +17,10 @@ namespace kavegep
             {
                 if (true)
                 {
-                    Console.WriteLine(i+" Kápi van tetya");
+                    Console.WriteLine(i+" Béla van tetya");
+                    //baby baby baby ooooooo baby baby baby OOOOOOOOo
+                    //You have been trolled hehehhehehheheheh
+
                 }
                 
             }
