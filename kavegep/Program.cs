@@ -15,7 +15,11 @@ namespace kavegep
             Console.WriteLine();
             for (int i = 0; i < 15; i++)
             {
-                Console.WriteLine("Kápi van tetya");
+                if (true)
+                {
+                    Console.WriteLine(i+" Kápi van tetya");
+                }
+                
             }
         }
     }
